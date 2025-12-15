@@ -1,48 +1,10 @@
 Introduction
 
-This assignment demonstrates my understanding of core Python programming concepts, including input validation, control structures, functions, file handling, NumPy-based data processing, and API integration. Each exercise is implemented with clear logic, proper error handling, and user‑friendly outputs.
+This assignment is designed to assess fundamental Python programming skills
+required for Data Science and AI roles. It covers practical problem-solving
+tasks including date and time manipulation, numerical computation, string
+processing, file handling, use of NumPy, and interaction with external APIs.
 
-Exercises Included
-1. Age Calculator
-
-Accepts birth date input in mm/dd/yyyy format
-
-Validates date format and correctness
-
-Calculates current age
-
-Converts date to European format (dd/mm/yyyy)
-
-2. Prime Number Generator
-
-Takes a numeric range as input
-
-Validates positive integers
-
-Generates all prime numbers within the range
-
-Displays output neatly (10 numbers per line)
-
-3. Student Marks Processor
-
-Reads student data from a file
-
-Calculates overall marks using weighted averages
-
-Assigns grades based on defined rules
-
-Uses NumPy structured arrays
-
-Sorts students by overall marks
-
-Writes processed results to an output file
-
-4. Weather Data Fetcher & Analyzer
-
-Fetches real‑time weather data using OpenWeatherMap API
-
-Analyzes temperature, humidity, and wind speed
-
-Generates weather summaries and alerts
-
-Logs weather data into a CSV file
+By completing this assignment, I aim to strengthen my understanding of
+structured programming, error handling, and writing clean, readable,
+well-documented Python code suitable for real-world applications.
